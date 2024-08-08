@@ -1,38 +1,29 @@
 ## About
 
-Hello! I'm [Your Name]. This is a simple website built using Markdown. I'm passionate about [Your Interests], and I love sharing my thoughts and ideas with the world.
+Hello! I'm Erick Puntiel and I'm a Computer Science student with aspirations of working in data.  
+When I'm not at the computer, I'm either at the movies, or at home baking!
 
 ## Projects
 
-### Project 1: Awesome Project
+### Project 1: Letterboxd Dashboard
 
-A brief description of your first project. You can provide a link to more details:
-
+A brief look into my personal movie-watching habits using  
 [Learn More](https://example.com)
-
+        
 ### Project 2: Another Great Project
 
 A brief description of your second project. Include a link if available:
 
 [Learn More](https://example.com)
 
-## Blog
 
-### Latest Post
-
-**Title of Your Latest Post**  
-A brief summary of your latest blog post. You can elaborate on the content here or provide a link to read more.
-
-[Read More](https://example.com)
 
 ## Contact
 
 Feel free to reach out to me:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: [puntielerick@gmail.com](mailto:puntielerick@gmail.com)
+- **Discord**: 
 
 ---
 
-*This site is powered by Markdown. It’s simple and easy to use!*
